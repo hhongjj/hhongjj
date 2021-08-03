@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hong_jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhongjj)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![Hong_jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhongjj&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
